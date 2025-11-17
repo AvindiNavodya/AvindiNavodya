@@ -23,8 +23,8 @@
 
 <h3 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">Connect with me:</h3>
 <p align="left"></br>
-<a href="https://linkedin.com/in/avindi navodya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avindi navodya" height="30" width="40" /></a>
-<a href="https://fb.com/avindi navodya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avindi navodya" height="30" width="40" /></a>
+<a href=" https://www.linkedin.com/in/avindinavodya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avindi navodya" height="30" width="40" /></a>
+<a href="https://fb.com/Avindi Navodya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avindi navodya" height="30" width="40" /></a>
 </p>
 
 ---
