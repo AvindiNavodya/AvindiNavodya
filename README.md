@@ -5,7 +5,6 @@
 
 ---
 
-| (https://github-readme-stats.vercel.app/api?username=AvindiNavodya&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvindiNavodya&theme=tokyonight) |
 
 
 ---
