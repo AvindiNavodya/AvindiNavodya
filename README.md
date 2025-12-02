@@ -4,11 +4,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=avindinavodya&label=Profile%20views&color=0e75b6&style=flat" alt="avindinavodya" /> </p>
 
 ---
-<p>
+
 | ![](https://github-readme-stats.vercel.app/api?username=avindinavodya&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avindinavodya&theme=tokyonight) |
 | --- | --- |
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=avindinavodya&theme=tokyonight) | ![](https://github-readme-stats.vercel.app/api?username=avindinavodya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
-</p>
+
 ---
 
 <h3> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> About Me:</h3>
