@@ -5,7 +5,7 @@
 
 ---
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=avindinavodya&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avindinavodya&theme=tokyonight) |
+| ![](https://github-readme-stats.vercel.app/api?username=avindinavodya&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avindinavodya&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avindinavodya&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=avindinavodya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
 
